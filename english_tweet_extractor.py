@@ -1,14 +1,5 @@
 import pandas as pd
-# import nltk
-
 import langdetect as ld
-
-# nltk.download('stopwords')
-# nltk.download('punkt')
-# nltk.download('vader_lexicon')
-# nltk.download('wordnet')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('words')
 
 # To Display all Columns
 pd.set_option('display.max_columns', None)
